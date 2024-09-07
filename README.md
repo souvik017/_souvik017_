@@ -2,6 +2,7 @@
 🔭 I’m currently working on: Building full-stack web applications using React, Node.js, and MongoDB.<br>👯 I’m looking to collaborate on: Open-source React or JavaScript projects, and innovative web development projects.<br>🤝 I’m looking for help with: Improving my skills in advanced backend development and cloud deployments.<br>🌱 I’m currently learning: DevOps practices, AWS, and advanced Node.js techniques.<br>💬 Ask me about: React, JavaScript, MERN stack, or responsive design techniques.<br>⚡ Fun fact: I love using GSAP for fun, creative animations on web projects!
 
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_souvikdas17_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Souvik Das) 
 
